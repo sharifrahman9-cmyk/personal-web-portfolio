@@ -5,6 +5,7 @@ const page = () => {
     <div>
       dashboard page
       <h2>This is dev branch</h2>
+      <button>Click me</button>
     </div>
   );
 };
