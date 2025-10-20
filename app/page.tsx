@@ -24,6 +24,7 @@ export default function Home() {
             Save and see your changes instantly. and then share your project
             with Vercel! one more update.
           </li>
+          <li>how to untrack file from git repository</li>
           <li className="mt-2 tracking-[-.01em]">Git push to deploy!</li>
         </ol>
 
